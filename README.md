@@ -1,4 +1,7 @@
-# Covid Today | www.covidtoday.in 
+# Covid Today | www.covidtoday.in
+
+### You can see the app [here](https://release.d3szq0lxp48t8e.amplifyapp.com/) as the original domain is not available.
+ 
 ## Tracking India's progress through the coronavirus epidemic. 
 <br/>
 <br/>
